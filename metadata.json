@@ -1,0 +1,5 @@
+{
+  "name": "AstroType",
+  "description": "A fast-paced space typing shooter inspired by Z-Type. Defend your ship by typing words before they crash into you.",
+  "requestFramePermissions": []
+}
